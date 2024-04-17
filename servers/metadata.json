@@ -1,23 +1,33 @@
 {
-    "id": "neptalia",
-    "name": "Neptalia",
-    "website": "https://neptalia.fr/",
-    "store": "https://boutique.neptalia.fr",
+    "id": "HealtyMC",
+    "name": "HealtyMC Network",
+    "store": "https://store.healtymc.gg",
     "addresses": [
-        "neptalia.fr"
+        "healtymc.mysrv.us"
     ],
-    "primaryAddress": "play.neptalia.fr",
-    "primaryColor": "#FF9700",
-    "secondaryColor": "#130B76",
-    "primaryMinecraftVersion": "1.8.9",
+    "primaryAddress": "healtymc.mysrv.us",
+    "primaryColor": "#9c34b8",
+    "secondaryColor": "#17151c",
+    "primaryLanguage": "es-EN",
+    "languages": [
+        "es-EN",
+        "en"
+    ],
     "minecraftVersions": [
+        "1.7.*",
         "1.8.*"
     ],
+    "primaryMinecraftVersion": "1.8.9",
+    "primaryRegion": "NA",
+    "regions": [
+        "NA"
+    ],
     "gameTypes": [
-        "Factions",
+        "HCF",
         "PvP"
     ],
     "socials": {
-        "discord": "https://discord.com/invite/neptalia"
+        "twitter": "HealtyMCNetwork",
+        "discord": "https://discord.com/invite/XpGVDZ49GP"
     }
 }
