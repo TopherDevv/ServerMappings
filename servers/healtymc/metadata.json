@@ -1,13 +1,13 @@
 {
     "id": "healtymc",
     "name": "HealtyMC Network",
-    "website": "https://www.healtymc.net",
-    "store": "https://store.healtymc.net",
+    "website": "https://www.healtymc.live",
+    "store": "https://store.healtymc.live",
     "description": "Competitive HCF Server",
     "addresses": [
-        "healtymc.net"
+        "healtymc.live"
     ],
-    "primaryAddress": "healtymc.net",
+    "primaryAddress": "healtymc.live",
     "primaryColor": "#00F0FF",
     "secondaryColor": "#09D3C3",
     "minecraftVersions": [
